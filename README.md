@@ -1,2 +1,2 @@
 # Solved_CodeForces_Problems
-This a Practice problem for myself.
+This a practice place for myself. All codes were accepted in codeforces.
